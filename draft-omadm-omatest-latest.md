@@ -20,27 +20,6 @@ pi:
 
 author:
       -
-        ins: C. Bormann
-        name: Carsten Bormann
-        org: Universität Bremen TZI
-        street: Postfach 330440
-        city: Bremen
-        code: D-28359
-        country: Germany
-        phone: +49-421-218-63921
-        email: cabo@tzi.org
-      -
-        ins: A. Betzler
-        name: August Betzler
-        org: Fundació i2CAT
-        street:
-          - Mobile and Wireless Internet Group
-          - C/ del Gran Capità, 2
-        city: Barcelona
-        code: 08034
-        country: Spain
-        email: august.betzler@i2cat.net
-      -
         ins: C. Gomez
         name: Carles Gomez
         org: Universitat Politecnica de Catalunya/Fundacio i2CAT
@@ -53,17 +32,6 @@ author:
         country: Spain
         phone: +34-93-413-7206
         email: carlesgo@entel.upc.edu
-      -
-        ins: I. Demirkol
-        name: Ilker Demirkol
-        org: Universitat Politecnica de Catalunya/Fundacio i2CAT
-        street:
-          - Departament d'Enginyeria Telematica
-          - C/Jordi Girona, 1-3
-        city: Barcelona
-        code: 08034
-        country: Spain
-        email: ilker.demirkol@entel.upc.edu
 
 normative:
   RFC2119:
@@ -82,17 +50,8 @@ informative:
   Betzler2013:
     author:
       -
-        name: August Betzler
-        ins: A. Betzler
-      -
         name: Carles Gomez
         ins: C. Gomez
-      -
-        name: Ilker Demirkol
-        ins: I. Demirkol
-      -
-        name: Josep Paradells
-        ins: J. Paradells
     title: Congestion control in reliable CoAP communication
     seriesinfo:
       "ACM MSWIM'13": p. 365-372
