@@ -36,7 +36,6 @@ author:
 normative:
   RFC2119:
   RFC2914: ccprinciples
-#  RFC5405: udpusage
   RFC6298: tcprto
   RFC7252: coap
   RFC8085: udpusage
@@ -44,7 +43,6 @@ normative:
 
 informative:
   RFC7641: observe
-#  RFC7959: block
   I-D.eggert-core-congestion-control: eggert
   I-D.bormann-core-congestion-control: bormann
   Betzler2013:
