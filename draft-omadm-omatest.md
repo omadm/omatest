@@ -1,15 +1,15 @@
 ---
-title: CoAP Simple Congestion Control/Advanced
-abbrev: CoAP Simple CoCoA
-docname: draft-omadm-ts
-date: 2017-10-29
+title: OMA Test Specification
+abbrev: OMA Test Spec
+docname: draft-omadm-omatest
+date: 2017-12-16
 
 stand_alone: true
 
 ipr: trust200902
 area: Internet
-wg: CoRE Working Group
-kw: Internet-Draft
+wg: OMA Group
+kw: Informational-Draft
 cat: info
 
 pi:
@@ -711,28 +711,3 @@ Castillejo grant CAS15/00336.  His contribution to this work has
 been carried out in part during his stay as a visiting scholar at the
 Computer Laboratory of the University of Cambridge, in collaboration
 with Prof. Jon Crowcroft.
-
---- fluff
-
-<!--  LocalWords:  LWIG interoperable IP RESTful IPv interoperability
- -->
-<!--  LocalWords:  implementers optimizations CoRE WPAN LoWPAN Lossy
- -->
-<!--  LocalWords:  ICMPv MLD IGMP DNS DHCPv TLS DTLS IPsec RPL KiB IW
- -->
-<!--  LocalWords:  Moore's mainloop lookup MTU IEEE datagram PANA API
- -->
-<!--  LocalWords:  APIs scalability URIs retransmission confirmable
- -->
-<!--  LocalWords:  retransmissions acknowledgement Acknowledgements
- -->
-<!--  LocalWords:  EAP PaC PAA PaCs AVPs AVP liveness retransmit IETF
- -->
-<!--  LocalWords:  TCP UDP checksums Checksum POSIX CoAP PDUs NoSec
- -->
-<!--  LocalWords:  MIDs bitfield datagrams RTT eggert CoAP's ACK coap
- -->
-<!--  LocalWords:  lossy multicast TCP's ACKs IANA TBD BCP Unicast WG
- -->
-<!--  LocalWords:  latencies RTO backoff bormann NSTART confirmables
- -->
