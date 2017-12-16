@@ -1,7 +1,7 @@
 ---
 title: CoAP Simple Congestion Control/Advanced
 abbrev: CoAP Simple CoCoA
-docname: draft-ietf-core-cocoa-latest
+docname: draft-omadm-ts
 date: 2017-10-29
 
 stand_alone: true
